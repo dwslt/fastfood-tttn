@@ -1,0 +1,46 @@
+[{
+  "_id": {
+    "$oid": "629588da24580000480033a1"
+  },
+  "name": "LapTop",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653967066558"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653967066558"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629588eb24580000480033a2"
+  },
+  "name": "Telephone",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653967083462"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653967083462"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6295890924580000480033a3"
+  },
+  "name": "Tablet",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653967113962"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653967113962"
+    }
+  }
+}]

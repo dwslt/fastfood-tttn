@@ -1,0 +1,111 @@
+[{
+  "_id": {
+    "$oid": "629585ec2458000048003393"
+  },
+  "name": "lenguyenanhkhoa",
+  "email": "khoa@gmail.com",
+  "phone": "123123123",
+  "address": null,
+  "country": "VietNam",
+  "avatar": "9b2c3490dc20177e4e31.jpg",
+  "level": "member",
+  "password": "$2y$10$UXO7WZA0es0ocj9V5B/29eHCBRuZ36l0V5MzMq4dUczF8IsZ0TmG.",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653968134180"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653966316914"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629595e424580000480033b1"
+  },
+  "name": "khoa1",
+  "email": "anhkhoa1234@gmail.com",
+  "phone": "123123123",
+  "address": "your address",
+  "country": "your country",
+  "avatar": "avatar.png",
+  "level": "member",
+  "password": "$2y$10$WCUC4t3aD53ccu5L07lwH.5xpbnD5fjGAb93RpTLtqQ00FO51XRVi",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653970404153"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653970404153"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62959b9d24580000480033b7"
+  },
+  "name": "sang123",
+  "email": "sang123@gmail.com",
+  "phone": "123123123",
+  "address": "443leduan",
+  "country": "VietNam",
+  "password": "$2y$10$QMsI3Sdp8TQ6TgKBJJSo..0m2VM.SVSQB0eR5KIN5fcqgc01aIQc.",
+  "level": "admin",
+  "avatar": "avatar.png",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653972077908"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653971869375"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62959cb124580000480033b8"
+  },
+  "name": "nghia12",
+  "email": "nghia123@gmail.com",
+  "phone": "123123123",
+  "address": "454leducthang",
+  "country": "VietNam",
+  "password": "$2y$10$nxAuAdAOS/hpTNIVBFT2QOQKBI9FemwxtoyzKnlEPpBQRRvO8O3hi",
+  "level": "member",
+  "avatar": "avatar.png",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653972145465"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653972145465"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62959d3324580000480033bf"
+  },
+  "name": "hien1",
+  "email": "hien1@gmail.com",
+  "phone": "123123123",
+  "address": "22camle",
+  "country": "VietNam",
+  "password": "$2y$10$9H2xdNDudhFS/DQ9gkj.te1Xxy4qlVUDkMYwvTaLAY11/2KNm5xUC",
+  "level": "member",
+  "avatar": "avatar.png",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653972275025"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653972275025"
+    }
+  }
+}]

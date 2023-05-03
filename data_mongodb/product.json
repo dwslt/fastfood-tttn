@@ -1,0 +1,187 @@
+[{
+  "_id": {
+    "$oid": "62958c8924580000480033a9"
+  },
+  "name": "Dell-G7-7591",
+  "price": 300,
+  "category": "629588da24580000480033a1",
+  "brand": "62958a1f24580000480033a4",
+  "company": "VietNam",
+  "detail": "The shell is made of aluminum, creating a high-end, trendy feeling for the Dell-G7-7591. The Ergofit hinge is quite solid and smart, helping to slightly raise the screen to an appropriate angle for comfortable typing.",
+  "image": "[\"1653968008--dell-g7-7591.jpg\",\"1653968008--dell-g7-7591-1-100x100.jpg\",\"1653968008--dell-g7-7591-6-100x100.jpg\"]",
+  "status": "0",
+  "sale": 0,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653968009214"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653968009214"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62958e4324580000480033aa"
+  },
+  "name": "Dell Inspiron 14 5415",
+  "price": 250,
+  "category": "629588da24580000480033a1",
+  "brand": "62958a1f24580000480033a4",
+  "company": "VietNam",
+  "detail": "Dell-Inspiron-14-5415 has a large 15.6-inch screen with Full HD resolution (1920 x 1080) pixels, providing sharp, realistic and detailed image quality with space. wide. This is not only quite ideal conditions when playing games, but even when doing office tasks or browsing photos or watching movies, you will also get the most impressive experience. In particular, the screen of the machine also uses extremely good anti-glare technology, so it helps to prevent glare when used in places with strong light sources",
+  "image": "[\"1653968450--dell-inspiron-14-5415-3-100x100.jpg\",\"1653968450--dell-inspiron-14-5415-4.png\",\"1653968450--dell-inspiron-14-5415-100x100.jpg\"]",
+  "status": "0",
+  "sale": 0,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653968781702"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653968451851"
+    }
+  },
+  "id_brand": "62958a1f24580000480033a4",
+  "id_category": "629588da24580000480033a1"
+},{
+  "_id": {
+    "$oid": "62958f6f24580000480033ab"
+  },
+  "name": "HP Notebook 14s cr2005tu",
+  "price": 400,
+  "category": "629588da24580000480033a1",
+  "brand": "62958a4224580000480033a6",
+  "company": "VietNam",
+  "detail": "HP Notebook 14s cr2005tu is equipped with a 14-inch FHD screen that allows sharp images and true colors. Moreover, there is also an integrated IPS panel for a wide viewing angle of up to 178 degrees, so even if you look at it sideways, the color will not change.",
+  "image": "[\"1653968750--hp-notebook-14s-cr2005tu.jpg\",\"1653968750--hp-notebook-14s-cr2005tu-1-100x100.jpg\",\"1653968750--hp-notebook-14s-cr2005tu-7-100x100.jpg\"]",
+  "status": "0",
+  "sale": 0,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653968751755"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653968751755"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6295908524580000480033ac"
+  },
+  "name": "Lenovo T440s",
+  "price": 500,
+  "category": "629588da24580000480033a1",
+  "brand": "62958a4e24580000480033a7",
+  "company": "VietNam",
+  "detail": "The shell is made of aluminum and magnesium alloy, so it makes the laptop look luxurious and elegant. Moreover, this shell also gives better heat dissipation no matter how many applications the user runs.",
+  "image": "[\"1653969028--laptop-lenovo-t440s-2-100x100.jpg\",\"1653969028--laptop-lenovo-t440s-4-100x100.jpg\",\"1653969028--lenovo-thinkpad-t440s.jpg\"]",
+  "status": "0",
+  "sale": 0,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653969029019"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653969029019"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629591d324580000480033ad"
+  },
+  "name": "Msi GF63 Thin 10SC",
+  "price": 600,
+  "category": "629588da24580000480033a1",
+  "brand": "62958a2f24580000480033a5",
+  "company": "VietNam",
+  "detail": "Msi GF63 Thin 10SC is equipped with a 15.6-inch Full HD screen with 3 ultra-thin edges for users to experience great gaming. Although it is a gaming laptop with a good graphics card, the parameters for graphics work are only good with DCI-P3 < 50%, sRGB > 60% and Adobe < 50% to meet the needs of gaming and Basic graphics with sharp, vivid image quality.",
+  "image": "[\"1653969361--282345428_5504117632953934_6545552274573501399_n.png\",\"1653969361--281083878_725136068687880_3482302446325939571_n.png\",\"1653969361--MSI GF63_3.jpg\"]",
+  "status": "0",
+  "sale": 0,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653969363799"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653969363799"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629592cb24580000480033ae"
+  },
+  "name": "Asus VivoBook F415EA-UB51",
+  "price": 320,
+  "category": "629588da24580000480033a1",
+  "brand": "62958a6b24580000480033a8",
+  "company": "VietNam",
+  "detail": "Possessing a trendy silver plastic shell but equally sturdy. Subtly rounded edges provide a soft feel and easier grip for the user.",
+  "image": "[\"1653969610--279908841_978892842998818_71500588165482180_n.png\",\"1653969610--283829882_1392690737915348_8869924132054631420_n.png\",\"1653969610--281858835_587853895884715_6430397643579317669_n.png\"]",
+  "status": "0",
+  "sale": 0,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653969611913"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653969611913"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6295936424580000480033af"
+  },
+  "name": "HP Zbook Firefly 14 G7",
+  "price": 580,
+  "category": "629588da24580000480033a1",
+  "brand": "62958a4224580000480033a6",
+  "company": "VietNam",
+  "detail": "The HP Zbook Firefly 14 G7 possesses a solid, luxurious appearance with a minimalist gray color that will definitely be a good choice for any workspace. The chassis is made of high-quality solid aluminum. In addition, HP also designed this new Zbook laptop line with a disruptive Z logo to create a breakthrough.",
+  "image": "[\"1653969763--280189241_1321498561706170_7325865396113388196_n.png\",\"1653969763--281813863_720817665788479_7057836417205911379_n.png\",\"1653969763--280701827_592417935351776_7974501282259048137_n.png\"]",
+  "status": "0",
+  "sale": 0,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653969764592"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653969764592"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6295949524580000480033b0"
+  },
+  "name": "Dell Precision m5550",
+  "price": 240,
+  "category": "629588da24580000480033a1",
+  "brand": "62958a1f24580000480033a4",
+  "company": "VietNam",
+  "detail": "Inheriting the most quintessential, Dell Precision m5550 is still designed with meticulously CNC-cut aluminum. The surface is designed with a modern carbon pattern.",
+  "image": "[\"1653970068--dell-latitude-e7270.jpg\",\"1653970068--dell-latitude-e7270-1-100x100.jpg\",\"1653970068--dell-latitude-e7270-2-100x100.jpg\"]",
+  "status": "0",
+  "sale": 0,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653970069125"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653970069125"
+    }
+  }
+}]

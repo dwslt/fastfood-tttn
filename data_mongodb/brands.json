@@ -1,0 +1,76 @@
+[{
+  "_id": {
+    "$oid": "62958a1f24580000480033a4"
+  },
+  "name": "DELL",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653967444107"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653967391988"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62958a2f24580000480033a5"
+  },
+  "name": "MSI",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653967407938"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653967407938"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62958a4224580000480033a6"
+  },
+  "name": "HP",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653967426716"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653967426716"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62958a4e24580000480033a7"
+  },
+  "name": "LENOVO",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653967438596"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653967438596"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62958a6b24580000480033a8"
+  },
+  "name": "ASUS",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653967467476"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653967467476"
+    }
+  }
+}]

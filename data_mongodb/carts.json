@@ -1,0 +1,165 @@
+[{
+  "_id": {
+    "$oid": "6295867b245800004800339a"
+  },
+  "image": "http://127.0.0.1:8000/upload/product/1651883014--dell-g7-7591 - Copy.jpg",
+  "name": "Dell-G7-7591",
+  "price": "200",
+  "qty": 2,
+  "id_product": 6275,
+  "id_user": "629585ec2458000048003393",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653966459551"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653966459551"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6295867b245800004800339b"
+  },
+  "image": "http://127.0.0.1:8000/upload/product/1653966445--dell-g7-7591.jpg",
+  "name": "asd",
+  "price": "123",
+  "qty": 1,
+  "id_product": 0,
+  "id_user": "629585ec2458000048003393",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653966459552"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653966459552"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62959cc124580000480033b9"
+  },
+  "image": "http://127.0.0.1:8000/upload/product/1653969028--laptop-lenovo-t440s-2-100x100.jpg",
+  "name": "Lenovo T440s",
+  "price": 500,
+  "qty": 2,
+  "id_product": "6295908524580000480033ac",
+  "status": 0,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653972327180"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653972161945"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62959cca24580000480033bb"
+  },
+  "image": "http://127.0.0.1:8000/upload/product/1653969028--laptop-lenovo-t440s-2-100x100.jpg",
+  "name": "Lenovo T440s",
+  "price": "500",
+  "qty": 1,
+  "id_product": {
+    "$numberLong": "9223372036854775807"
+  },
+  "id_user": "629595e424580000480033b1",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653972170052"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653972170052"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62959cd024580000480033bc"
+  },
+  "image": "http://127.0.0.1:8000/upload/product/1653968750--hp-notebook-14s-cr2005tu.jpg",
+  "name": "HP Notebook 14s cr2005tu",
+  "price": 400,
+  "qty": 1,
+  "id_product": "62958f6f24580000480033ab",
+  "status": 0,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653972176729"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653972176729"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62959cdc24580000480033be"
+  },
+  "image": "http://127.0.0.1:8000/upload/product/1653968750--hp-notebook-14s-cr2005tu.jpg",
+  "name": "HP Notebook 14s cr2005tu",
+  "price": "400",
+  "qty": 3,
+  "id_product": 62958,
+  "id_user": "629595e424580000480033b1",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653972188718"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653972188718"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62959d6f24580000480033c1"
+  },
+  "image": "http://127.0.0.1:8000/upload/product/1653969028--laptop-lenovo-t440s-2-100x100.jpg",
+  "name": "Lenovo T440s",
+  "price": "500",
+  "qty": 2,
+  "id_product": {
+    "$numberLong": "9223372036854775807"
+  },
+  "id_user": "62959d3324580000480033bf",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653972335274"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653972335274"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62959d6f24580000480033c2"
+  },
+  "image": "http://127.0.0.1:8000/upload/product/1653969361--282345428_5504117632953934_6545552274573501399_n.png",
+  "name": "Msi GF63 Thin 10SC",
+  "price": "600",
+  "qty": 1,
+  "id_product": 629591,
+  "id_user": "62959d3324580000480033bf",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653972335275"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653972335275"
+    }
+  }
+}]
