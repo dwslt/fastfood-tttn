@@ -1,84 +1,84 @@
 [{
   "_id": {
-    "$oid": "629585ae202300002a000432"
+    "$oid": "64513f88501700007a005762"
   },
   "migration": "2014_10_12_000000_create_users_table",
   "batch": 1
 },{
   "_id": {
-    "$oid": "629585ae202300002a000433"
+    "$oid": "64513f89501700007a005763"
   },
   "migration": "2014_10_12_100000_create_password_resets_table",
   "batch": 1
 },{
   "_id": {
-    "$oid": "629585ae202300002a000434"
+    "$oid": "64513f89501700007a005764"
   },
   "migration": "2019_08_19_000000_create_failed_jobs_table",
   "batch": 1
 },{
   "_id": {
-    "$oid": "629585ae202300002a000435"
+    "$oid": "64513f89501700007a005765"
   },
   "migration": "2022_04_22_213915_create_categories_table",
   "batch": 1
 },{
   "_id": {
-    "$oid": "629585ae202300002a000436"
+    "$oid": "64513f89501700007a005766"
   },
   "migration": "2022_04_25_080543_update_users_table",
   "batch": 1
 },{
   "_id": {
-    "$oid": "629585ae202300002a000437"
+    "$oid": "64513f89501700007a005767"
   },
   "migration": "2022_04_25_085027_create_country_table",
   "batch": 1
 },{
   "_id": {
-    "$oid": "629585ae202300002a000438"
+    "$oid": "64513f89501700007a005768"
   },
   "migration": "2022_04_26_035629_create_brands_table",
   "batch": 1
 },{
   "_id": {
-    "$oid": "629585ae202300002a000439"
+    "$oid": "64513f89501700007a005769"
   },
   "migration": "2022_04_26_170021_create_blog_table",
   "batch": 1
 },{
   "_id": {
-    "$oid": "629585ae202300002a00043a"
+    "$oid": "64513f89501700007a00576a"
   },
   "migration": "2022_05_06_080231_create_carts_table",
   "batch": 1
 },{
   "_id": {
-    "$oid": "629585af202300002a00043b"
+    "$oid": "64513f89501700007a00576b"
   },
   "migration": "2022_05_06_223918_create_history_table",
   "batch": 1
 },{
   "_id": {
-    "$oid": "629585af202300002a00043c"
+    "$oid": "64513f89501700007a00576c"
   },
   "migration": "2022_05_07_092652_create_rate_table",
   "batch": 1
 },{
   "_id": {
-    "$oid": "629585af202300002a00043d"
+    "$oid": "64513f89501700007a00576d"
   },
   "migration": "2022_05_07_093333_create_comment_table",
   "batch": 1
 },{
   "_id": {
-    "$oid": "629585af202300002a00043e"
+    "$oid": "64513f89501700007a00576e"
   },
   "migration": "2022_05_30_190348_update_history_table",
   "batch": 1
 },{
   "_id": {
-    "$oid": "629585af202300002a00043f"
+    "$oid": "64513f89501700007a00576f"
   },
   "migration": "2022_05_31_020823_create_product_table",
   "batch": 1

@@ -1,76 +1,34 @@
 [{
   "_id": {
-    "$oid": "62958a1f24580000480033a4"
+    "$oid": "6451dd252f7e00003d002e6a"
   },
-  "name": "DELL",
+  "name": "KFC",
   "updated_at": {
-    "$date": {
-      "$numberLong": "1653967444107"
-    }
+    "$date": "2023-05-03T04:03:49.333Z"
   },
   "created_at": {
-    "$date": {
-      "$numberLong": "1653967391988"
-    }
+    "$date": "2023-05-03T04:03:49.333Z"
   }
 },{
   "_id": {
-    "$oid": "62958a2f24580000480033a5"
+    "$oid": "6451dd392f7e00003d002e6b"
   },
-  "name": "MSI",
+  "name": "Jollibee",
   "updated_at": {
-    "$date": {
-      "$numberLong": "1653967407938"
-    }
+    "$date": "2023-05-03T04:04:09.135Z"
   },
   "created_at": {
-    "$date": {
-      "$numberLong": "1653967407938"
-    }
+    "$date": "2023-05-03T04:04:09.135Z"
   }
 },{
   "_id": {
-    "$oid": "62958a4224580000480033a6"
+    "$oid": "6451de382f7e00003d002e6d"
   },
-  "name": "HP",
+  "name": "Popeyes",
   "updated_at": {
-    "$date": {
-      "$numberLong": "1653967426716"
-    }
+    "$date": "2023-05-03T04:08:24.142Z"
   },
   "created_at": {
-    "$date": {
-      "$numberLong": "1653967426716"
-    }
-  }
-},{
-  "_id": {
-    "$oid": "62958a4e24580000480033a7"
-  },
-  "name": "LENOVO",
-  "updated_at": {
-    "$date": {
-      "$numberLong": "1653967438596"
-    }
-  },
-  "created_at": {
-    "$date": {
-      "$numberLong": "1653967438596"
-    }
-  }
-},{
-  "_id": {
-    "$oid": "62958a6b24580000480033a8"
-  },
-  "name": "ASUS",
-  "updated_at": {
-    "$date": {
-      "$numberLong": "1653967467476"
-    }
-  },
-  "created_at": {
-    "$date": {
-      "$numberLong": "1653967467476"
-    }
+    "$date": "2023-05-03T04:08:24.142Z"
   }
 }]

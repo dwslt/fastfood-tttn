@@ -1,41 +1,49 @@
 [{
   "_id": {
-    "$oid": "62959a4a24580000480033b5"
+    "$oid": "64526e53053000004f001a92"
   },
-  "blog_id": "6295966924580000480033b2",
-  "user_id": "629595e424580000480033b1",
-  "content": "sản phẩm quá mắc",
-  "avatar": "avatar.png",
-  "name": "khoa1",
+  "blog_id": "6451dec62f7e00003d002e6e",
+  "user_id": "6451f07a3a4800002a00365d",
+  "content": "ada",
+  "avatar": "jollibee.jpg",
+  "name": "12312321",
   "level": 0,
   "updated_at": {
-    "$date": {
-      "$numberLong": "1653971530934"
-    }
+    "$date": "2023-05-03T14:23:15.702Z"
   },
   "created_at": {
-    "$date": {
-      "$numberLong": "1653971530934"
-    }
+    "$date": "2023-05-03T14:23:15.702Z"
   }
 },{
   "_id": {
-    "$oid": "62959a5624580000480033b6"
+    "$oid": "64526e62053000004f001a93"
   },
-  "blog_id": "6295966924580000480033b2",
-  "user_id": "629595e424580000480033b1",
-  "content": "rứa mà mắc gì",
-  "avatar": "avatar.png",
-  "name": "khoa1",
-  "level": "62959a4a24580000480033b5",
+  "blog_id": "6451dec62f7e00003d002e6e",
+  "user_id": "6451f07a3a4800002a00365d",
+  "content": "hihi",
+  "avatar": "jollibee.jpg",
+  "name": "12312321",
+  "level": "64526e53053000004f001a92",
   "updated_at": {
-    "$date": {
-      "$numberLong": "1653971542386"
-    }
+    "$date": "2023-05-03T14:23:30.127Z"
   },
   "created_at": {
-    "$date": {
-      "$numberLong": "1653971542386"
-    }
+    "$date": "2023-05-03T14:23:30.127Z"
+  }
+},{
+  "_id": {
+    "$oid": "64526e88053000004f001a94"
+  },
+  "blog_id": "6451dec62f7e00003d002e6e",
+  "user_id": "6451f07a3a4800002a00365d",
+  "content": "qweqweq",
+  "avatar": "jollibee.jpg",
+  "name": "12312321",
+  "level": "64526e53053000004f001a92",
+  "updated_at": {
+    "$date": "2023-05-03T14:24:08.367Z"
+  },
+  "created_at": {
+    "$date": "2023-05-03T14:24:08.367Z"
   }
 }]

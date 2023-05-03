@@ -1,46 +1,89 @@
 [{
   "_id": {
-    "$oid": "629588da24580000480033a1"
+    "$oid": "6451dcda2f7e00003d002e63"
   },
-  "name": "LapTop",
+  "name": "Gà rán",
   "updated_at": {
-    "$date": {
-      "$numberLong": "1653967066558"
-    }
+    "$date": "2023-05-03T04:02:34.597Z"
   },
   "created_at": {
-    "$date": {
-      "$numberLong": "1653967066558"
-    }
+    "$date": "2023-05-03T04:02:34.597Z"
   }
 },{
   "_id": {
-    "$oid": "629588eb24580000480033a2"
+    "$oid": "6451dce22f7e00003d002e64"
   },
-  "name": "Telephone",
+  "name": "Pizza",
   "updated_at": {
-    "$date": {
-      "$numberLong": "1653967083462"
-    }
+    "$date": "2023-05-03T04:02:42.583Z"
   },
   "created_at": {
-    "$date": {
-      "$numberLong": "1653967083462"
-    }
+    "$date": "2023-05-03T04:02:42.583Z"
   }
 },{
   "_id": {
-    "$oid": "6295890924580000480033a3"
+    "$oid": "6451dce92f7e00003d002e65"
   },
-  "name": "Tablet",
+  "name": "Nước",
   "updated_at": {
-    "$date": {
-      "$numberLong": "1653967113962"
-    }
+    "$date": "2023-05-03T04:02:49.687Z"
   },
   "created_at": {
-    "$date": {
-      "$numberLong": "1653967113962"
-    }
+    "$date": "2023-05-03T04:02:49.687Z"
+  }
+},{
+  "_id": {
+    "$oid": "6451dcf32f7e00003d002e66"
+  },
+  "name": "Mỳ ý",
+  "updated_at": {
+    "$date": "2023-05-03T04:02:59.106Z"
+  },
+  "created_at": {
+    "$date": "2023-05-03T04:02:59.106Z"
+  }
+},{
+  "_id": {
+    "$oid": "6451dcfb2f7e00003d002e67"
+  },
+  "name": "Khoai tây chiên",
+  "updated_at": {
+    "$date": "2023-05-03T04:03:07.908Z"
+  },
+  "created_at": {
+    "$date": "2023-05-03T04:03:07.908Z"
+  }
+},{
+  "_id": {
+    "$oid": "6451dd012f7e00003d002e68"
+  },
+  "name": "Kem",
+  "updated_at": {
+    "$date": "2023-05-03T04:03:13.698Z"
+  },
+  "created_at": {
+    "$date": "2023-05-03T04:03:13.698Z"
+  }
+},{
+  "_id": {
+    "$oid": "6451dd0a2f7e00003d002e69"
+  },
+  "name": "Nước giải khát",
+  "updated_at": {
+    "$date": "2023-05-03T04:03:22.801Z"
+  },
+  "created_at": {
+    "$date": "2023-05-03T04:03:22.801Z"
+  }
+},{
+  "_id": {
+    "$oid": "6451fe4cd2460000b7004d04"
+  },
+  "name": "Combo",
+  "updated_at": {
+    "$date": "2023-05-03T06:25:16.496Z"
+  },
+  "created_at": {
+    "$date": "2023-05-03T06:25:16.496Z"
   }
 }]

@@ -1,111 +1,73 @@
 [{
   "_id": {
-    "$oid": "629585ec2458000048003393"
+    "$oid": "6451dcaa2f7e00003d002e62"
   },
-  "name": "lenguyenanhkhoa",
-  "email": "khoa@gmail.com",
-  "phone": "123123123",
-  "address": null,
-  "country": "VietNam",
-  "avatar": "9b2c3490dc20177e4e31.jpg",
-  "level": "member",
-  "password": "$2y$10$UXO7WZA0es0ocj9V5B/29eHCBRuZ36l0V5MzMq4dUczF8IsZ0TmG.",
-  "updated_at": {
-    "$date": {
-      "$numberLong": "1653968134180"
-    }
-  },
-  "created_at": {
-    "$date": {
-      "$numberLong": "1653966316914"
-    }
-  }
-},{
-  "_id": {
-    "$oid": "629595e424580000480033b1"
-  },
-  "name": "khoa1",
-  "email": "anhkhoa1234@gmail.com",
-  "phone": "123123123",
+  "name": "Trần Đăng Long",
+  "email": "trandanglongs@gmail.com",
+  "phone": "0383074348",
   "address": "your address",
   "country": "your country",
-  "avatar": "avatar.png",
-  "level": "member",
-  "password": "$2y$10$WCUC4t3aD53ccu5L07lwH.5xpbnD5fjGAb93RpTLtqQ00FO51XRVi",
-  "updated_at": {
-    "$date": {
-      "$numberLong": "1653970404153"
-    }
-  },
-  "created_at": {
-    "$date": {
-      "$numberLong": "1653970404153"
-    }
-  }
-},{
-  "_id": {
-    "$oid": "62959b9d24580000480033b7"
-  },
-  "name": "sang123",
-  "email": "sang123@gmail.com",
-  "phone": "123123123",
-  "address": "443leduan",
-  "country": "VietNam",
-  "password": "$2y$10$QMsI3Sdp8TQ6TgKBJJSo..0m2VM.SVSQB0eR5KIN5fcqgc01aIQc.",
+  "avatar": "20190925-PANO_20190925_123347-2.JPG",
   "level": "admin",
-  "avatar": "avatar.png",
+  "password": "$2y$10$D9ryN.GGr3TaQXru9Nk91e80kf7G/R2eIREVO0dPNofT1RB2l4Ms6",
   "updated_at": {
-    "$date": {
-      "$numberLong": "1653972077908"
-    }
+    "$date": "2023-05-03T09:34:48.314Z"
   },
   "created_at": {
-    "$date": {
-      "$numberLong": "1653971869375"
-    }
+    "$date": "2023-05-03T04:01:46.670Z"
   }
 },{
   "_id": {
-    "$oid": "62959cb124580000480033b8"
+    "$oid": "6451e8003a4800002a003657"
   },
-  "name": "nghia12",
-  "email": "nghia123@gmail.com",
-  "phone": "123123123",
-  "address": "454leducthang",
-  "country": "VietNam",
-  "password": "$2y$10$nxAuAdAOS/hpTNIVBFT2QOQKBI9FemwxtoyzKnlEPpBQRRvO8O3hi",
+  "name": "ádasd",
+  "email": "longs@gmail.com",
+  "phone": "0383074348333",
+  "address": "123123123",
+  "country": "VN",
+  "password": "$2y$10$M4MylRMdUWdiJu7sW1/RgekFigxDZyDLkU/15i2h5Ip1h9PEL5LHG",
   "level": "member",
-  "avatar": "avatar.png",
+  "avatar": "jollibee.jpg",
   "updated_at": {
-    "$date": {
-      "$numberLong": "1653972145465"
-    }
+    "$date": "2023-05-03T04:50:08.645Z"
   },
   "created_at": {
-    "$date": {
-      "$numberLong": "1653972145465"
-    }
+    "$date": "2023-05-03T04:50:08.645Z"
   }
 },{
   "_id": {
-    "$oid": "62959d3324580000480033bf"
+    "$oid": "6451f07a3a4800002a00365d"
   },
-  "name": "hien1",
-  "email": "hien1@gmail.com",
-  "phone": "123123123",
-  "address": "22camle",
-  "country": "VietNam",
-  "password": "$2y$10$9H2xdNDudhFS/DQ9gkj.te1Xxy4qlVUDkMYwvTaLAY11/2KNm5xUC",
+  "name": "12312321",
+  "email": "dragon38ht@gmail.com",
+  "phone": "00000000000000",
+  "address": null,
+  "country": "VN",
+  "password": "$2y$10$y7ecMGaIASzEXVRoUsz/wOVGodM51OF2IqEQNsvaqtwfiSIyAHibq",
   "level": "member",
-  "avatar": "avatar.png",
+  "avatar": "jollibee.jpg",
   "updated_at": {
-    "$date": {
-      "$numberLong": "1653972275025"
-    }
+    "$date": "2023-05-03T14:41:02.426Z"
   },
   "created_at": {
-    "$date": {
-      "$numberLong": "1653972275025"
-    }
+    "$date": "2023-05-03T05:26:18.800Z"
+  }
+},{
+  "_id": {
+    "$oid": "64527d6c053000004f001aa1"
+  },
+  "name": "hhuhuuh",
+  "email": "funny2xx1@gmail.com",
+  "phone": "111111111111111111",
+  "address": "HT",
+  "country": "HA TInh",
+  "password": "$2y$10$KW8ATIr7qgUmIUY5AficXutCdA8N5vpVPqNXSRO9Rgj0TcMJ0.7Xe",
+  "level": "member",
+  "avatar": "1.png",
+  "updated_at": {
+    "$date": "2023-05-03T15:27:40.786Z"
+  },
+  "created_at": {
+    "$date": "2023-05-03T15:27:40.786Z"
   }
 }]
