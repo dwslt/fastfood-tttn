@@ -8,10 +8,6 @@
 				  <li class="active">Check out</li>
 				</ol>
 			</div><!--/breadcrums-->
-			
-			
-			
-
 			<div class="shopper-informations">
 				<div class="row">
 					<div class="col-sm-5">
@@ -98,7 +94,7 @@
                             </div>
                         </form>
 					</div>
-					
+
 				</div>
 			</div>
 			<div class="review-payment">
@@ -126,7 +122,7 @@
                             foreach($cart as $key=>$value){
 							$total_price+=$value['product_qty'] * $value['product_price'];
 							$total_item+=$value['product_qty'];
-                            
+
                         ?>
 						<tr id="{{$value['product_id']}}" >
 										<td class="cart_product">
@@ -159,10 +155,10 @@
 							<td colspan="4">&nbsp;</td>
 							<td colspan="2">
 								<table class="table table-condensed total-result">
-									
+
 									<tr class="shipping-cost">
 										<td>Shipping Cost</td>
-										<td>Free</td>										
+										<td>Free</td>
 									</tr>
 									<tr>
 										<td>Item</td>
@@ -207,7 +203,7 @@
 					$name = Auth::user()->name;
 
 				}
-				
+
 			?>
 
 						<form class="form-horizontal form-material" method="POST" enctype="multipart/form-data">
@@ -220,7 +216,7 @@
                                 </div>
                             </div>
                         </form>
-			
+
 					<!-- <span>
 						<label><input type="checkbox"> Direct Bank Transfer</label>
 					</span>
@@ -233,24 +229,24 @@
 				</div>
 		</div>
 	</section> <!--/#cart_items-->
-	<?php 
-	
+	<?php
+
 	?>
     <script>
-			
-			
+
+
 		var check = "<?php echo Auth::check(); ?>"
-		
+
         $(document).ready(function(){
 			$("div.shopper-informations").hide();
-			
+
 			$.ajaxSetup({
                 headers: {
                     'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')
                 }
             });
 			// $("div.shopper-informations").hide();
-			
+
 			$("button.order").click(function(e){
 				if(check!=1){
 					$("div.shopper-informations").show();
@@ -260,10 +256,10 @@
 
 				}
 			});
-			
-			
+
+
 
         })
     </script>
-    
+
 @endsection
